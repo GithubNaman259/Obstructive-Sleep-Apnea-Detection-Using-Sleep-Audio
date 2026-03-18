@@ -145,14 +145,6 @@ A weighted ensemble combining:
 
 ---
 
-## 🧠 Key Learnings
-
-- Audio signals can effectively detect sleep disorders  
-- Ensemble methods improve reliability  
-- Medical applications require recall-focused optimization  
-
----
-
 ## 🔮 Future Work
 
 - Add physiological sensors (SpO₂, airflow, thorax)
