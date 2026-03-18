@@ -12,7 +12,7 @@ The system processes sleep audio recordings, extracts meaningful features, and a
 
 An optimized **ensemble model** is used to improve detection performance, especially for clinically important events.
 
-Project Document: [click Here](https://drive.google.com/file/d/1MCKRmrhewWZ1BE-Ap6UIpHVV7I-Jyor3/view?usp=sharing)
+**Project Document:** [click Here](https://drive.google.com/file/d/1MCKRmrhewWZ1BE-Ap6UIpHVV7I-Jyor3/view?usp=sharing)
 
 ---
 
