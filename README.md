@@ -131,17 +131,6 @@ A weighted ensemble combining:
 
 ---
 
-## 📁 Project Structure
-
-preprocessing/  
-feature_extraction/  
-splits/  
-models/  
-ensemble/  
-results/  
-
----
-
 ## 🛠️ Technologies Used
 
 - Python
@@ -162,14 +151,6 @@ results/
 
 ---
 
-## ⚠️ Limitations
-
-- Audio-only system may miss physiological signals  
-- Class imbalance affects performance  
-- Not a replacement for clinical diagnosis  
-
----
-
 ## 🔮 Future Work
 
 - Add physiological sensors (SpO₂, airflow, thorax)
@@ -177,14 +158,3 @@ results/
 - Mobile deployment
 - Multi-modal learning  
 
----
-
-## 📌 Conclusion
-
-Audio-based ML combined with ensemble techniques provides a scalable solution for sleep disorder screening.
-
----
-
-## 👤 Author
-
-Naman Kumar
