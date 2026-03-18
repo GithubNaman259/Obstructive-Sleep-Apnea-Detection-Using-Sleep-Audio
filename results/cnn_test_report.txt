@@ -1,0 +1,10 @@
+                   precision    recall  f1-score   support
+
+     Desaturation     0.6274    0.6619    0.6442      1473
+         Hypopnea     0.2403    0.0914    0.1325       339
+Obstructive Apnea     0.8361    0.5736    0.6804      1067
+            Snore     0.5004    0.8384    0.6268       687
+
+         accuracy                         0.6153      3566
+        macro avg     0.5511    0.5413    0.5210      3566
+     weighted avg     0.6286    0.6153    0.6030      3566
